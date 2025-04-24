@@ -1,0 +1,41 @@
+{
+    "name": "Blockticity #ex: 123456789",
+    "description": "The leader in guaranteed certificates of authenticity for the most valuable of possessions. A Different Approach to Credibility with Error-Proof Certifications.",
+    "image": "N/A",
+    "edition": "ex: 123456789",
+    "date": 1745445484,
+    "attributes": [
+        {
+            "trait_type": "Client Name",
+            "value": "Players Ink Authentication"
+        },
+        {
+            "trait_type": "Order Identifier",
+            "value": "ex: 123456789"
+        },
+        {
+            "trait_type": "Transaction Date",
+            "value": "Date of Minting"
+        },
+        {
+            "trait_type": "Influencer Name",
+            "value": "ex: Jim Brown"
+        },
+        {
+            "trait_type": "Dated Signed",
+            "value": "ex: 1/26/2010"
+        },
+        {
+            "trait_type": "Item Type",
+            "value": "ex: Helmet"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "ex: top of helmet"
+        },
+        {
+            "trait_type": "Location",
+            "value": "ex: Las Vegas Strip"
+        }
+    ]
+}
